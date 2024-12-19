@@ -13,7 +13,7 @@ export const GifSearchApp = () => {
     
     return (
         <>
-    <h1>GIF Search App</h1>
+    <h1>Getting GIFs</h1>
 
     <AddCategory onNewCategory = {onAddCategory}/>
 
